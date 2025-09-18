@@ -14,7 +14,7 @@ const Landing: React.FC = () => {
       {/* Buttons Showcase */}
       <div className="mt-10 space-x-4">
         <Button title="Small Button" styles="px-3 py-1 rounded-sm" />
-        <Button title="Medium Button" styles="px-4 py-2 rounded-md" />
+        <Button title="Medium Button" styles="px-4 py-2 rounded-lg" />
         <Button title="Large Button" styles="px-6 py-3 rounded-full" />
 
       </div>
